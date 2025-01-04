@@ -2,9 +2,9 @@
 - 👀 I’m interested in robotics.
 - 🌱 I’m currently learning how to build a robot
 - 💞️ I’m looking to collaborate on FRC robotics
-- 📫 How to reach me ... 
+- 📫 The best way to reach me is to email snixon@chartwell.org. 
 - 😄 Pronouns: I'm a robot. My pronoun is it.
-- ⚡ Fun fact: I've got noting right now. 
+- ⚡ Fun fact: My campus is infested with wild turkeys. 
 
 <!---
 ChartwellFRC/ChartwellFRC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
